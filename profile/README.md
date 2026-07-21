@@ -4,7 +4,7 @@
 
 Kumix is a developer-first technology company building modern infrastructure, cloud services, and open-source tools for the next generation of software.
 
-Inspired by the Japanese word ***kumo* (雲)**, meaning **cloud**, Kumix represents simplicity, reliability, and scalable engineering. The modern **-ix** suffix gives the brand a distinctive technology identity while remaining flexible enough to grow across multiple products and platforms.
+Inspired by the Japanese word **_kumo_ (雲)**, meaning **cloud**, Kumix represents simplicity, reliability, and scalable engineering. The modern **-ix** suffix gives the brand a distinctive technology identity while remaining flexible enough to grow across multiple products and platforms.
 
 ---
 
@@ -16,25 +16,25 @@ Build elegant infrastructure that empowers developers to create, ship, and scale
 
 ## What We Build
 
-* 🔐 Authentication
-* ☁️ Cloud Infrastructure
-* 📦 Storage
-* 🌐 API & SDKs
-* 📧 Email Services
-* ⚡ Developer Tools
-* 🤖 AI Infrastructure
-* 📚 Open Source Libraries
+- 🔐 Authentication
+- ☁️ Cloud Infrastructure
+- 📦 Storage
+- 🌐 API & SDKs
+- 📧 Email Services
+- ⚡ Developer Tools
+- 🤖 AI Infrastructure
+- 📚 Open Source Libraries
 
 ---
 
 ## Principles
 
-* Developer First
-* Simplicity over Complexity
-* Reliability by Design
-* Performance Matters
-* Open by Default
-* Long-Term Thinking
+- Developer First
+- Simplicity over Complexity
+- Reliability by Design
+- Performance Matters
+- Open by Default
+- Long-Term Thinking
 
 ---
 
